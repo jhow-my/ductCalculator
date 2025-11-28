@@ -1,0 +1,5 @@
+{
+  "name": "Duct Loss Calculator 2025-11-28 after publish",
+  "description": "An intelligent HVAC duct fitting loss calculator. Estimate pressure drops and visualize system curves using ASHRAE database methods.",
+  "requestFramePermissions": []
+}
